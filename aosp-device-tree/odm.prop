@@ -1,0 +1,7 @@
+persist.vendor.ssr.restart_level=ALL_ENABLE
+ro.build.nothing.version=Nothing OS (1)
+ro.config.alarm_alert=01_bedside.ogg
+ro.config.notification_sound=01_oi!.ogg
+ro.config.ringtone=01_pneumatic.ogg
+ro.nothing.version.id=1.5.0
+ro.vendor.qti.va_odm.support=1
