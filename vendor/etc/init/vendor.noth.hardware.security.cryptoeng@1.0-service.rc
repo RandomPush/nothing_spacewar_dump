@@ -1,0 +1,8 @@
+service vendor.cryptoeng /vendor/bin/hw/vendor.noth.hardware.security.cryptoeng@1.0-service
+    interface vendor.noth.hardware.security.cryptoeng@1.0::ICryptoeng default
+    oneshot
+    disabled
+    class hal
+    user system
+    group system
+

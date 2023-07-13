@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<!-- the refresh rate can only be standard int value, one of [60, 90, 120, 144] -->
+<!-- or other display supported int value -->
+<configs>
+  <config package="com.google.android.projection.gearhead.phonescreen">60,60</config>
+  <!-- <config package="com.google.android.apps.maps">60,60</config> -->
+  <config package="com.waze">60,60</config>
+  <config package="com.google.android.apps.mapslite">60,60</config>
+  <config package="ru.yandex.yandexmaps">60,60</config>
+  <config package="maps.pro">60,60</config>
+  <config package="com.baidu.BaiduMap">60,60</config>
+  <config package="com.mapquest.android.ace">60,60</config>
+  <config package="com.autonavi.minimap">60,60</config>
+  <config package="com.nhn.android.nmap">60,60</config>
+  <config package="com.here.app.maps">60,60</config>
+  <config package="com.ss.android.ugc.aweme">60,60</config>
+  <config package="com.ss.android.ugc.aweme.lite">60,60</config>
+  <config package="com.ss.android.ugc.trill">60,60</config>
+  <config package="tv.twitch.android.app">60,60</config>
+
+  <config package="com.android.chrome" disable_sv="true">120,60</config>
+  <config package="com.brave.browser" disable_sv="true">120,60</config>
+  <config package="com.opera.browser" disable_sv="true">120,60</config>
+  <config package="org.mozilla.firefox" disable_sv="true">120,60</config>
+  <config package="org.torproject.torbrowser" disable_sv="true">120,60</config>
+  <config package="com.sec.android.app.sbrowser" disable_sv="true">120,60</config>
+  <config package="com.kiwibrowser.browser" disable_sv="true">120,60</config>
+  <config package="com.microsoft.emmx" disable_sv="true">120,60</config>
+  <config package="com.hsv.freeadblockerbrowser" disable_sv="true">120,60</config>
+  <config package="com.vivaldi.browser" disable_sv="true">120,60</config>
+  <config package="org.torproject.torbrowser" disable_sv="true">120,60</config>
+  <config package="com.yandex.browser" disable_sv="true">120,60</config>
+  <config package="org.adblockplus.browser" disable_sv="true">120,60</config>
+  <config package="com.naver.whale" disable_sv="true">120,60</config>
+
+</configs>
